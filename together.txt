@@ -1,3 +1,3 @@
-This is a collaborator file.
+This is a collaboration file.
 
-Capston Project : Case Study - Credit Card Approval Prediction (Developing a Machine Learning Model for Credit Scoring) (Sonali Priyadarsini Rout)
+Capstone Project: Case Study - Credit Card Approval Prediction (Developing a Machine Learning Model for Credit Scoring) (Sonali Priyadarsini Rout)
